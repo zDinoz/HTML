@@ -1,0 +1,97 @@
+body{
+    width: 1600px;
+    height: 5873px;
+    margin: auto;
+    font-family: Arial;
+}
+.box1{
+    width: 100%;
+    height: 936px;
+    background: url("../images/bg1_01.png");
+}
+.box1 .header{
+    padding-top: 51px;
+    width: 100%;
+}
+.box1 .logo{
+    float: left;
+    margin: 0px 420px 0px 221px;
+}
+.box1 .menu{
+
+}
+.box1 .menu ul{
+    list-style: none;
+}
+.box1 .menu ul li{
+    float: left;
+    padding-right: 55px;
+}
+.box1 .menu ul li a{
+    text-decoration: none;
+    font-size: 21px;
+    color: #8d8d8d;
+}
+.box1 .menu ul li a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.slogan{
+    padding-top: 323px;
+    padding-left: 250px;
+}
+.slogan b{
+    font-size: 84px;
+    color: black;
+}
+#colorSlogan{
+    color: #f66c27;
+}
+.box2{
+    width: 100%;
+    padding-top: 160px;
+    background-color: white;
+}
+.box2  .content1{
+    padding-left: 115px;
+}
+.box2 .content1 .head1{
+    float: left;
+}
+.box2 .content1 .head2{
+    float: left;
+    padding: 40px 0px 0px 5px;
+    width: 35%;
+}
+.box2 .content1 .head2 b{
+    float: left;
+    font-size: 45px;
+    margin-bottom: 35px;
+    clear: both;
+}
+.box2 .content1 span{
+    float: left;
+    font-size: 25px;
+    color: #f66c27;
+    margin-right: 80px;
+}
+.box2 .content1 p{
+    color: #888888;
+    font-size: 19px;
+    font-family: Arial sans-serif;
+    padding-top: 15px;
+}
+.box2 .content1 button{
+    color: white;
+    width: 180px;
+    height: 65px;
+    background-color: #f66c27;
+    border: 1px solid #f66c27;
+    border-radius: 65px;
+    font-size: 18px;
+    margin-top: 15px;
+    box-shadow: 5px 5px 10px 5px #eae9e9;
+}
+.box2 .content1 button:hover{
+    background-color: #e76829;
+}
